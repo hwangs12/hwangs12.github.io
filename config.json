@@ -3,14 +3,16 @@
   "username": "hwangs12",
   "name": "Jun Hwang",
   "userimg": "https://avatars.githubusercontent.com/u/37169222?v=4",
-  "sort": "updated",
+  "sort": "pushed",
   "order": "desc",
-  "includeFork": false,
+  "includeFork": true,
   "theme": "dark.css",
   "types": [
-   "all"
+   "owner"
   ],
-  "twitter": "matheism27",
-  "linkedin": "sungjunhwang"
+  "twitter": "matheist27",
+  "linkedin": "sungjunhwang",
+  "medium": null,
+  "dribbble": null
  }
 ]
